@@ -177,7 +177,7 @@ class Scheduler:
     def stop(self):
         self.running_flag = False
 
-# ========================= app.py (Tkinter + ttk) =========================
+# =========================app.py (Tkinter + ttk) =========================
 
 import tkinter as tk
 from tkinter import ttk, messagebox
